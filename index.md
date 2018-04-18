@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/dingrui37/dingrui37.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 test the url [P2](https://github.com/dingrui37/dingrui37.github.io/edit/master/p2)
 
-test the url [P3](https://github.com/dingrui37/dingrui37.github.io/edit/master/p3.md)
+test the url [P3](./p3.md)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
